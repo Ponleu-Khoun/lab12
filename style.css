@@ -1,0 +1,66 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+h1.boxh1{
+    font-family: Verdana;
+    margin: 10px 255px 8px 30px;
+    padding: 0%s;
+    color: rgb(38, 38, 255);
+}
+p.boxp{
+    width: 300px;
+    height: 30px;
+    font-family: verdana;
+    margin: 3px 30px;
+    padding-left: 70px;
+    color: rgb(209, 167, 51);
+}
+.borderframe{
+    width: 440px;
+    height: 350px;
+    border: 20px solid black;
+    border-image: url(border_fram.png) 30 30 round;
+    margin: 10px;
+}
+.borderframe h2{
+    padding: 0px 10px;
+    font-size: 25px;
+    text-align: center;
+    color: rgb(254, 30, 64);
+    margin: 10px 0px;
+}
+.borderframe h3{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(26, 44, 243);
+    padding: 0px 10px;
+    margin: 0px;
+    text-decoration: underline;
+}
+.borderframe h4{
+    font-size: 15px;
+    text-align: center;
+    color: rgb(254, 30, 64);
+    margin: 10px 0px;
+    
+}
+.borderframe p{
+    font-size: 10px;
+    color: rgb(26, 44, 243);
+    text-align: center;
+}
+.borderframe #h1{
+    font-size: 25px;
+    color: rgb(26, 44, 243);
+    text-align: center;
+    margin: 10px;
+    text-decoration:underline;
+}
+.borderframe img{
+    width: 70px;
+    height: 74px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
